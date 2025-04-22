@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjnagxxi5b01y"]
+
+[ext_resource type="Script" uid="uid://chq1k11iqo6ik" path="res://GameManager.cs" id="1_70yv6"]
+
+[node name="GameManager" type="Node"]
+script = ExtResource("1_70yv6")
+
+[node name="HandsDisplay" type="CanvasLayer" parent="."]
